@@ -1,17 +1,17 @@
 {
   "name": "HAFIZH",
   "version": "1.0.0",
-  "description": "This Script Make By Hafizh",
+  "description": "Education Script BY Hafizh",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "HAFIZH",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
-    "get": "^1.4.0",
     "got": "^11.8.1"
   }
+}
