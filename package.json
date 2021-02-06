@@ -1,0 +1,35 @@
+{
+  "name": "Script Nugas Gratis",
+  "version": "1.0.0",
+  "description": "This Script Make By Hafizh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "get": "^1.4.0",
+    "got": "^11.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HAFizh-15/Education-script.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Hafizh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HAFizh-15/Education-script/issues"
+  },
+  "homepage": "https://github.com/HAFizh-15/Education-script/readme"
+}
